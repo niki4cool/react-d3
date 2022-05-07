@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "name": "Andy",
+      "gender": "second"
+    },
+    {
+      "id": 2,
+      "name": "Betty",
+      "gender": "first"
+    },
+    {
+      "id": 3,
+      "name": "Cate",
+      "gender": "first"
+    },
+    {
+      "id": 4,
+      "name": "Dave",
+      "gender": "second"
+    },
+    {
+      "id": 5,
+      "name": "Ellen",
+      "gender": "first"
+    },
+    {
+      "id": 6,
+      "name": "Fiona",
+      "gender": "first"
+    },
+    {
+      "id": 7,
+      "name": "Garry",
+      "gender": "second"
+    },
+    {
+      "id": 8,
+      "name": "Holly",
+      "gender": "first"
+    },
+    {
+      "id": 9,
+      "name": "Iris",
+      "gender": "first"
+    },
+    {
+      "id": 10,
+      "name": "Jane",
+      "gender": "first"
+    },
+
+    {
+      "id": 11,
+      "name": "Jane",
+      "gender": "first"
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2
+    },
+    {
+      "source": 1,
+      "target": 5
+    },
+    {
+      "source": 1,
+      "target": 6
+    },
+
+    {
+      "source": 11,
+      "target": 1
+    },
+
+    {
+      "source": 2,
+      "target": 3
+    },
+    {
+      "source": 2,
+      "target": 7
+    }
+  ,
+
+    {
+      "source": 3,
+      "target": 4
+    },
+    {
+      "source": 8,
+      "target": 3
+    }
+  ,
+    {
+      "source": 4,
+      "target": 5
+    }
+  ,
+
+    {
+      "source": 4,
+      "target": 9
+    },
+    {
+      "source": 5,
+      "target": 10
+    }
+  ]
+}
